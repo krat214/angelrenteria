@@ -1,0 +1,13 @@
+body{
+	background: url("../img/verde.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #174d2e;
+}
+
+#menu ul li:hover{
+	background: #174d2e;
+}
+

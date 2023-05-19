@@ -1,0 +1,13 @@
+body{
+	background: url("../img/azul.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #0d73ad;
+}
+
+#menu ul li:hover{
+	background: #0d73ad;
+}
+

@@ -1,0 +1,12 @@
+body{
+	background: url("../img/morado.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #4b024b;
+}
+
+#menu ul li:hover{
+	background: #4b024b;
+}
